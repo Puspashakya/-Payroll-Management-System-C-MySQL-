@@ -1,0 +1,10 @@
+
+**Database Name: payrolldbcsharp**
+
+**Developed by Puspa shakya**
+
+
+**Login Details**
+
+Username: admin
+Password: password123
